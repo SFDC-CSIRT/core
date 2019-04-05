@@ -65,6 +65,8 @@
         "zendframework/zend-validator": "^2.10",
         "composer/semver": "^1.4",
         "ext-json": "*",
+	"ext-intl": "*",
+	"ext-gd": "*",
         "sabre/vobject": "^4.2",
         "dg/composer-cleaner": "^2.0"
     },
